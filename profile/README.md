@@ -1,4 +1,4 @@
-<img src="assets/codesoc.png" alt="Warwick Coding Society Logo" width="600"/>
+<img src="/assets/codesoc.png" alt="Warwick Coding Society Logo" width="600"/>
 
 Welcome to the official GitHub organisation of **Warwick Coding Society** (often known as **CodeSoc**).  
 We are the University of Warwick’s hub for all things programming — making coding **accessible, social, and useful for everyone**, regardless of experience level.
