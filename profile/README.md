@@ -5,7 +5,7 @@ We are the University of Warwick’s hub for all things programming — making c
 
 ---
 
-## 🚀 About & Mission
+## About & Mission
 Warwick Coding Society exists to:
 - **Make learning to code accessible** to all Warwick students, from complete beginners to advanced programmers.  
 - **Develop skills beyond the CS curriculum**, focusing on practical, industry-relevant technologies.  
@@ -15,7 +15,7 @@ Whether you’re studying Computer Science or have never written a line of code 
 
 ---
 
-## 🎓 Membership
+## Membership
 Membership is **free** for all Warwick students.  
 👉 [Join here](https://www.warwicksu.com/societies-sports/societies/warwickcodingsociety/)
 
@@ -27,7 +27,7 @@ Benefits of joining:
 
 ---
 
-## 🤝 Mentorship Programme
+## Mentorship Programme
 Our mentorship scheme pairs beginner coders with experienced members to provide:
 - Weekly support and 1-to-1 guidance  
 - Coding sessions and project collaboration  
@@ -37,7 +37,7 @@ Open to both mentors and mentees — a great way to **learn, teach, and grow**.
 
 ---
 
-## 📚 Courses, Workshops, Events & Talks
+## Courses, Workshops, Events & Talks
 We run a wide variety of sessions throughout the year, including:
 - **Student-made free courses** (Python, HTML/CSS, Java, Swift, UI/UX, and more)  
 - **Hands-on workshops** to apply your skills  
@@ -47,13 +47,13 @@ We run a wide variety of sessions throughout the year, including:
 
 ---
 
-## 📞 Contact
+## Contact
 - **Website**: [warwickcodingsociety.com](https://www.warwickcodingsociety.com)  
-- **Email**: warwickcodingsociety@gmail.com
+- **Email**: hello@warwickcodingsociety.com
 
 ---
 
-## 🌐 Socials
+## Socials
 - [Discord](https://discord.com/invite/FfhpyCdUT5)
 - [Linktree](https://linktr.ee/wwcodesoc)  
 - [Instagram](https://instagram.com/warwickcodingsociety)  
