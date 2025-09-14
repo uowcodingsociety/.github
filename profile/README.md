@@ -1,39 +1,47 @@
 <img src="/assets/codesoc.png" alt="Warwick Coding Society Logo" width="600"/>
 
-Welcome to the official GitHub organisation of **Warwick Coding Society** (often known as **CodeSoc**).  
-We are the University of Warwick’s hub for all things programming — making coding **accessible, social, and useful for everyone**, regardless of experience level.
+# Hey there! 👋
+
+Welcome to **CodeSoc** — the University of Warwick's biggest programming community!
+
+We're just a bunch of students who think coding is pretty cool and want to share that with everyone else. Whether you've been programming since you were 12 or you're still figuring out what a variable is, you'll fit right in.
 
 ---
 
-## About & Mission
-Warwick Coding Society exists to:
-- **Make learning to code accessible** to all Warwick students, from complete beginners to advanced programmers.  
-- **Develop skills beyond the CS curriculum**, focusing on practical, industry-relevant technologies.  
-- Provide a **supportive community** through mentorship, events, and socials.  
+## What we're all about
 
-Whether you’re studying Computer Science or have never written a line of code before, there’s a place for you here.
+Honestly? We just love coding and want to help other students get into it too.
 
----
+Here's the thing - uni CS courses are great, but they don't always teach you the stuff you'll actually use in internships or jobs. We fill that gap with workshops on things like React, APIs, mobile development, and whatever else people are interested in.
 
-## Membership
-Membership is **free** for all Warwick students.  
-👉 [Join here](https://www.warwicksu.com/societies-sports/societies/warwickcodingsociety/)
-
-Benefits of joining:
-- Access to all workshops, courses, and socials  
-- Eligibility for mentorship programme (mentor or mentee)  
-- Priority for guest talks and events  
-- Chance to meet like-minded students and collaborate on projects  
+Plus, coding can feel pretty isolating when you're stuck on a bug at 2am. We're here to change that. Come to our events, join our Discord, find a mentor, or just hang out with people who get excited about the same nerdy stuff you do.
 
 ---
 
-## Mentorship Programme
-Our mentorship scheme pairs beginner coders with experienced members to provide:
-- Weekly support and 1-to-1 guidance  
-- Coding sessions and project collaboration  
-- A welcoming, personalised learning journey  
+## Join us!
 
-Open to both mentors and mentees — a great way to **learn, teach, and grow**.  
+It's completely free and takes about 30 seconds:
+👉 [Sign up on the SU website](https://www.warwicksu.com/societies-sports/societies/warwickcodingsociety/)
+
+Why bother? Well, you get:
+- Dibs on workshop spots (some fill up fast!)
+- Access to our mentorship scheme
+- Free pizza at events (this is not a joke - we take pizza very seriously)
+- A Discord full of people who will actually understand your programming memes
+- The chance to build cool projects with other students  
+
+---
+
+## Get a coding buddy (aka Mentorship)
+
+Ever wish you had that friend who just *gets* programming and can explain why your code keeps breaking? That's basically our mentorship scheme.
+
+We pair up beginners with more experienced students. You'll meet up roughly once a week to:
+- Work through problems together (no judgment if you've been staring at the same error for 3 hours)
+- Build projects that actually interest you
+- Navigate the weird world of programming interviews, internships, and career stuff
+
+Want to be a mentor? Even better! Teaching someone else is honestly one of the best ways to level up your own skills.  
 
 ---
 
